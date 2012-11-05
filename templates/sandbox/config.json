@@ -1,5 +1,5 @@
 {
-  "name": "basic",
+  "name": "sandbox",
   "template": "index.html",
   "baseDir": "../../",
   "savedDataUrl": "saved-data.json",
